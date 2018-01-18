@@ -1,2 +1,2 @@
-# vamtiger-get-file-text
+# vamtiger-get-file-data
 Get data for a defined file path.
