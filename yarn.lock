@@ -198,13 +198,18 @@ vamtiger-bash@^0.0.11:
   dependencies:
     bluebird "^3.5.1"
 
-vamtiger-node-typescript-commit@0.0.51:
-  version "0.0.51"
-  resolved "https://registry.yarnpkg.com/vamtiger-node-typescript-commit/-/vamtiger-node-typescript-commit-0.0.51.tgz#9abc8c584b9bc9c4f25f3994714a1ef2b8ce8e45"
+vamtiger-get-string-table@latest:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/vamtiger-get-string-table/-/vamtiger-get-string-table-0.0.6.tgz#d2affc0016ca835246624b406331988118240d6f"
+
+vamtiger-node-typescript-commit@latest:
+  version "0.0.57"
+  resolved "https://registry.yarnpkg.com/vamtiger-node-typescript-commit/-/vamtiger-node-typescript-commit-0.0.57.tgz#69f65756229309a8d776b2223491f863b5394bd7"
   dependencies:
     bluebird "^3.5.1"
     vamtiger-argv "^1.2.1"
     vamtiger-bash "^0.0.11"
+    vamtiger-get-string-table latest
     xregexp "^3.2.0"
 
 vamtiger-regex-leading-dash@^1.0.10:

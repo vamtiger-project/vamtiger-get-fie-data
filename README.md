@@ -1,10 +1,10 @@
-# VAMTIGER Get Path Data
+# VAMTIGER Get File Data
 [VAMTIGER Get File Data](https://github.com/vamtiger-project/vamtiger-get-file-data) returns data associated for a defined file path.
 
 ## Installation
 [VAMTIGER Get File Data](https://github.com/vamtiger-project/vamtiger-get-file-data) can be installed using [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/lang/en/):
 ```javascript
-npm i vamtiger-get-file-data 
+npm i vamtiger-get-file-data
 ```
 or
 ```javascript
@@ -40,4 +40,4 @@ Since [VAMTIGER Get File Data](https://github.com/vamtiger-project/vamtiger-get-
 async someAsyncFunction function() {
     const fileData = await getFileData('some/file/absolute/path');
 }
-``` 
+```
